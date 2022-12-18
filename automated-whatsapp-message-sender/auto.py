@@ -48,9 +48,4 @@ for i in range(limit):
     pg.press("down", presses = n)
     pg.press("Enter")
     
-# kich : https://gpay.app.goo.gl/N3QmrE
-# srv : https://gpay.app.goo.gl/MTwytY
-# Jerin :  https://gpay.app.goo.gl/HDy172
-# Aparna : https://gpay.app.goo.gl/jy6PxU6Px
-# sreelakshmi : https://gpay.app.goo.gl/4EQEs2
 
